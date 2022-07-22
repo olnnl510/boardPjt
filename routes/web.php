@@ -41,6 +41,10 @@ Route::prefix('boards')->group(function() {
 
 /*
 <라라벨>
+<라라벨>
+<라라벨>
 ORM - 엘로퀀트
 쿼리문 직접작성 : 쿼리빌더
+
+
 */
